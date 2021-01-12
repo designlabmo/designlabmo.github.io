@@ -88,7 +88,7 @@ input, textarea{
 
 h4{
     color: black;
-    font-family: Bahnschrift;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-size: 32px;
     margin-top: 5xp;
 }
@@ -97,7 +97,7 @@ h6{
    color: black;
     margin: 2px;
     line-height: 2.3em;
-    font-family: Bahnschrift;
+    font-family: 'Open Sans Condensed', sans-serif;
     
 }
 
