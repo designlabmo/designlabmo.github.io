@@ -81,38 +81,54 @@ form{
 
 input, textarea{
     width: 100%;
-    margin-bottom: 20px;
-    padding: 7px;
+    margin-bottom: 15px;
+    padding: 5px;
     box-sizing: border-box;
-    font-size: 13px;
+    font-size: 15px;
     color: black;
+}
+
+textarea{
+    min-height: 154px;
 }
 
 
 h4{
     color: black;
     font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 32px;
-    margin-top: 5xp;
+    font-size: 38px;
+    
+    
+    
 }
 
 h6{
    color: black;
-    margin: 2px;
-    line-height: 2.3em;
+    margin: 1px;
+    margin-top: 5xp;
+    line-height: 2.2em;
     font-family: 'Open Sans Condensed', sans-serif;
     
 }
 
 .boton:hover{
+    cursor: pointer;
     background: #ededed;    
 }
 
 .espacio{
     
-    height: 15px;
+    height: 25px;
    
 }
+
+.espacio2_3{
+    
+    height: 40px;
+   
+}
+
+
   
 
 
