@@ -38,14 +38,14 @@ p{
 }
 
 .container figure .layer h3{
-    color:darkslategrey;
+    color:#424242;
     margin-top: 200px;
     margin-bottom: 0px;  
     font-size: 20px;    
 }
 
 .container figure .layer h4{
-    color:darkslategrey;
+    color:#424242;
     margin-top: 0px;
     margin-bottom: 0px;
     line-height: 1.5;
@@ -53,13 +53,13 @@ p{
 }
 
 .container figure .layer h5{
-    color:darkslategrey;
+    color:#424242;
     margin-top: 0px;
     margin-bottom: 0px;    
 }
 
 .container figure .layer h6{
- color:darkslategrey;
+    color:#424242;
     margin-top: 0px;
     margin-bottom: 0px;
     font-size: 19px;   
@@ -72,14 +72,14 @@ p{
     
 }
 .container figure:hover > .layer h3{
-    color:darkslategrey;
+    color:#424242;
     margin-top: 200px;
     margin-bottom: 0px;  
     font-size: 20px;
 }
 
 .container figure:hover > .layer h4{
-    color:darkslategrey;
+    color:#424242;
     margin-top: 0px;
     margin-bottom: 0px;
     line-height: 1.5;
@@ -87,20 +87,17 @@ p{
 }
 
 .container figure:hover > .layer h5{
-    color:darkslategrey;
+    color:#424242;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
 .container figure:hover > .layer h6{
-    color:darkslategrey;
+    color:#424242;
     margin-top: 0px;
     margin-bottom: 0px;
     font-size: 19px;    
 }
-
-
-
 
 .header{
     color:floralwhite; 
