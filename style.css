@@ -174,10 +174,7 @@ textarea{
 h4{
     color: black;
     font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 38px;
-    
-    
-    
+    font-size: 38px;    
 }
 
 h6{
@@ -186,7 +183,6 @@ h6{
     margin-top: 5xp;
     line-height: 2.2em;
     font-family: 'Open Sans Condensed', sans-serif;
-    
 }
 
 .boton:hover{
@@ -201,16 +197,11 @@ h6{
 }
 
 .espacio2_3{
-    
     height: 45px;
-   
 }
 
 .espacio_jardin{
-    
     height: 5px;
-
-   
 }
 
 .centrado{
@@ -220,18 +211,25 @@ h6{
 
   
 .p_espacio_jardin{
-    margin-bottom: 2px;
-        
+    margin-bottom: 2px;     
 }
 
 .texto_mo{
-    
     text-align:justify;
 }
 
 .texto_jardin{
-    
     text-align:justify;
+}
+
+.redes li{
+    display: inline-block;
+    
+}
+
+.redes a{
+    padding: 0px;
+    color: aqua
     
 }
 
